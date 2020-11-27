@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm [Ardalan][website] 👋
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ardalanamini&hide_border=true&show_icons=true)](https://github.com/ardalanamini)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardalanamini&hide_border=true&layout=compact)](https://github.com/ardalanamini)
+
+[website]: https://ardalanamini.com
 
 <!--
 **ardalanamini/ardalanamini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
