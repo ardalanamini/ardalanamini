@@ -1,4 +1,4 @@
-### 🧑🏻‍💻 Hi there, I'm [Ardalan Amini][WEBSITE_URL] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### 🧑🏻‍💻 Hi there, I'm [Ardalan Amini][WEBSITE_URL] 👋🏻
 
 [![Website][WEBSITE_BADGE]][WEBSITE_URL]
 [![LinkedIn][LINKEDIN_BADGE]][LINKEDIN_URL]
