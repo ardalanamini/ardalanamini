@@ -22,7 +22,7 @@ I'm a full-stack software engineer with more experience & focus in the backend d
 
 #### 🌟 Top Repositories
 
-[![ESLint Noir Config](https://github-readme-stats.vercel.app/api/pin/?username=ardalanamini&repo=eslint-config-noir)]([https://github.com/ardalanamini/auto-changelog](https://github.com/ardalanamini/eslint-config-noir))
+[![ESLint Noir Config](https://github-readme-stats.vercel.app/api/pin/?username=ardalanamini&repo=eslint-config-noir)](https://github.com/ardalanamini/eslint-config-noir)
 [![Auto Changelog](https://github-readme-stats.vercel.app/api/pin/?username=ardalanamini&repo=auto-changelog)](https://github.com/ardalanamini/auto-changelog)
 [![Express.js API Template](https://github-readme-stats.vercel.app/api/pin/?username=ardalanamini&repo=express-api-template)](https://github.com/ardalanamini/express-api-template)
 
