@@ -7,7 +7,7 @@
 I'm a full-stack software engineer with more experience & focus in the backend development.
 
 - I enjoy participating in challenging ideas and great teams, gaining new experiences and learn new stuff.
-- 6+ years of software engineering experience.
+- 8+ years of software engineering experience and more than 2 years of team management.
 - Managed tasks & some product pipelines using Trello.
 - Very much focused on maintenance & clean code and structure, efficiency, performance & overall quality.
 
