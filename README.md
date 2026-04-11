@@ -15,13 +15,8 @@ I'm a full-stack software engineer with more experience & focus in the backend d
 
 #### 📈 Github Stats
 
-<a href="https://github.com/ardalanamini">
-  <img
-    align="center"
-    alt="Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=ardalanamini&hide_border=true&show_icons=true&count_private=true&theme=github_dark"
-  />
-</a>
+[![Stats](./profile/stats.svg)](https://github.com/ardalanamini)
+
 <a href="https://github.com/ardalanamini">
   <img
     align="center"
