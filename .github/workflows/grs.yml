@@ -31,7 +31,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=ardalanamini&repo=eslint-config-noir
+          options: username=ardalanamini&repo=eslint-config-noir&theme=github_dark
           path: profile/pin-eslint-config-noir.svg
           token: ${{ github.token }}
 
