@@ -7,7 +7,7 @@
 I'm a full-stack software engineer with more experience & focus in the backend development.
 
 - I enjoy participating in challenging ideas and great teams, gaining new experiences and learn new stuff.
-- 8+ years of software engineering experience and more than 2 years of team management.
+- 10+ years of software engineering experience and more than 3 years of team management.
 - Managed tasks & some product pipelines using Trello.
 - Very much focused on maintenance & clean code and structure, efficiency, performance & overall quality.
 
@@ -17,32 +17,13 @@ I'm a full-stack software engineer with more experience & focus in the backend d
 
 [![Stats](./profile/stats.svg)](https://github.com/ardalanamini)
 
-<a href="https://github.com/ardalanamini">
-  <img
-    align="center"
-    alt="Top Langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardalanamini&hide_border=true&layout=compact&theme=github_dark"
-  />
-</a>
+[![Top Languages](./profile/top-langs.svg)](https://github.com/ardalanamini)
 
 ---
 
 #### 🌟 Top Repositories
 
-<a href="https://github.com/ardalanamini/express-api-template">
-  <img
-    align="center"
-    alt="Express.js API Template"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ardalanamini&repo=express-api-template&theme=github_dark"
-  />
-</a>
-<a href="https://github.com/ardalanamini/eslint-config-noir">
-  <img
-    align="center"
-    alt="ESLint Noir Config"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ardalanamini&repo=eslint-config-noir&theme=github_dark"
-  />
-</a>
+[![ESLint Noir Config](./profile/pin-eslint-config-noir.svg)](https://github.com/ardalanamini/eslint-config-noir)
 
 <!--
 **ardalanamini/ardalanamini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
