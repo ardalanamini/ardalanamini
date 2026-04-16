@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ardalan Amini's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 136, Total Commits  (last year) : 90, Total PRs: 236, Total Issues: 142, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 136, Total Commits  (last year) : 94, Total PRs: 236, Total Issues: 142, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 61.978211237450274;
+        stroke-dashoffset: 61.61824875329714;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >90</text>
+      >94</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
